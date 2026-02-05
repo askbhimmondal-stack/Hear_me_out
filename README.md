@@ -1,3 +1,13 @@
+This app lets you paste a YouTube link and play the song audio only.
+It streams and plays the music right away with good quality.
+Background play works even when screen is off or app is minimized.
+You can make playlists and add more links to listen one by one.
+No permanent MP3 file is saved to your phone storage.
+If you close the app or clear data, songs won't play offline later.
+It's for online listening only, not for downloading files.
+Super easy: paste link → play → enjoy!
+
+
 
 <html lang="en">
 <head>
