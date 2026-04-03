@@ -49,3 +49,52 @@ Hear-Me-Out/
 ├── assets/ # Icons, images, UI assets
 └── README.md # Project documentation
 
+
+
+---
+
+## 🎯 Use Cases
+
+- Listening to **YouTube music without video**
+- Playing **podcasts and lectures**
+- Creating a **lightweight music listening tool**
+- Learning **JavaScript media player development**
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created for **educational and personal use only**.  
+Users must respect **YouTube's Terms of Service and copyright policies** when using this tool.
+
+---
+
+## 💡 Future Improvements
+
+- 🎶 Playlist support  
+- ⭐ Favorite songs / history  
+- 🔁 Loop & shuffle options  
+- 📥 Optional MP3 download feature  
+- 🌙 Dark / Light mode  
+- 🔍 Search YouTube directly from the player
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you'd like to improve the project, feel free to **fork the repository and submit a pull request**.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## ⭐ Support
+
+If you like this project, please **give it a star ⭐ on GitHub** and share it with others!
+
+
