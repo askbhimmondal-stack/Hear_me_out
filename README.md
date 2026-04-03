@@ -39,15 +39,18 @@ The application is designed with a **minimal, fast, and distraction-free interfa
 
 ---
 
-## 📂 Project Structure
 
+## 📁 Project Structure
+
+```
 Hear-Me-Out/
 │
-├── index.html # Main webpage
-├── style.css # UI styling
-├── script.js # Player functionality
-├── assets/ # Icons, images, UI assets
-└── README.md # Project documentation
+├── index.html   # Main webpage
+├── style.css    # UI styling
+├── script.js    # Player functionality
+├── assets/      # Icons, images, UI assets
+└── README.md    # Project documentation
+```
 
 
 
