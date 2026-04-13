@@ -65,6 +65,13 @@ Hear-Me-Out/
 
 ---
 
+## 🖥️ Live Project
+
+https://hear-me-out-stack.netlify.app/
+
+---
+
+
 ## ⚠️ Disclaimer
 
 This project is created for **educational and personal use only**.  
